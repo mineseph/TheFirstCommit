@@ -1,2 +1,2 @@
-email :
-gitID :
+email :josephwon51@gmail.com
+gitID :mineseph
